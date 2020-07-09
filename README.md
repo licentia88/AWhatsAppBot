@@ -3,8 +3,8 @@ Whatsapp Bot C# .Net Framework
 
 *** PLEASE READ FIRST ***
 
-When you install the package from nuget you will be seeing a sampe usage folder in your **solution explorer** under the **project** that the package is installed to.
-**Copy chromedriver.exe into your release and debug folders** 
+When you install the package from nuget you will be seeing a sampe usage folder located in your project file.
+**Copy chromedriver.exe from the sample folder into your release and debug folders** 
 
 
 In order for the bot to work the **chrome driver version** and  **Chrome version** should match.
