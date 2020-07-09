@@ -46,7 +46,8 @@ public void SendBulkSms(List<string> phoneNumbers, string message, List<string> 
                     }
                     Catch
                     {
-                       //IF your code hits this line it means: either you have an invalid phone number, the phone number does not have whatsapp or It failed because of the slow                        //internet connection
+                       //IF your code hits this line it means: either you have an invalid phone number, 
+                       //the phone number does not have whatsapp or It failed because of the slow internet connection
                     }
                 }
             }
