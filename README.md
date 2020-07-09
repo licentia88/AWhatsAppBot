@@ -9,7 +9,7 @@ When you install the package from nuget you will be seeing a sampe usage folder 
 
 In order for the bot to work the **chrome driver version** and  **Chrome version** should match.
 
-**if the bot is not working please check the following: **
+**if the bot is not working please check the following:**
 
 1- Open chrome and type in chrome://settings/help to the url field or go to Setting-> help to check your chrome version
 Ex:
