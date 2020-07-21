@@ -1,4 +1,3 @@
-# AWhatsAppBot
 # WhatsAppBot
 a WhatsApp-Bot written in C# to send auto messages & images to your contacts.
 
