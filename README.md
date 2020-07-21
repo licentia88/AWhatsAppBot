@@ -1,4 +1,7 @@
 # AWhatsAppBot
+# WhatsAppBot
+a WhatsApp-Bot written in C# to send auto messages & images to your contacts.
+
 
 **If you like the bot and feel like to donate I would really appreciate it as I am unemployed at the moment due to the pandemic.**
 
