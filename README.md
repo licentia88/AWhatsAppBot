@@ -1,24 +1,29 @@
 # AWhatsAppBot
-Whatsapp Bot C# .Net Framework
 
-*** PLEASE READ FIRST ***
+**If you like the bot and feel like to donate I would really appreciate it as I am unemployed at the moment due to the pandemic.
+[Buy Me a Coffee or More](https://www.buymeacoffee.com/AsmG)
 
-When you install the package from nuget you will be seeing a sampe usage folder located in your project file.
-**Copy chromedriver.exe from the sample folder into your release and debug folders** 
+Whatsapp Bot for C# .Net Framework  Easy&Simple to use
+
+*** READ ME FIRST ***
+
+When you install the package from nuget you will be seeing a folder named Chrome Driver which located in your project directory.
+**Move chromedriver.exe from the folder into your release and debug folders** 
 
 
 In order for the bot to work the **chrome driver version** and  **Chrome version** should match.
 
-**if the bot is not working please check the following:**
+**if the bot is throwing an exception you need to check the following:**
 
 1- Open chrome and type in chrome://settings/help to the url field or go to Setting-> help to check your chrome version
-Ex:
+**Example version Info:
 Google Chrome is up to date
 Version 83.0.4103.116 (Official Build) (64-bit)
 
 2- Go to https://chromedriver.chromium.org/downloads and download the appropriate chrome driver that's matching your chrome version
 in this case I should be using : version ChromeDriver 83.0.4103.39 that is listed on the page
 
+3- Update to the latest version.
 
 #**SAMPLE USAGE**
 
